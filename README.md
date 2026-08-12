@@ -12,14 +12,6 @@ GSAP-driven scroll animations.
 - GSAP + ScrollTrigger
 - lucide-react
 
-## Getting started
-
-```bash
-npm install
-npm run dev       # start local dev server
-npm run build     # production build -> dist/
-npm run preview   # preview the production build
-```
 
 ## Structure
 
@@ -42,7 +34,3 @@ src/
   "Download Resume" affordance at `/resume.pdf` if you want a working button
   (currently the download icon is decorative next to the profile panel).
 
-## Deploying
-
-Push to GitHub and deploy on Vercel: import the repo, framework preset
-"Vite", default build command `npm run build`, output directory `dist`.
